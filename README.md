@@ -1,9 +1,12 @@
-# 📁 EasyShare – File Sharing App
+# 📁 InShare – File Sharing App
 
 EasyShare is a simple and secure file sharing application that lets users upload files and share them via unique download links. Built using Node.js, Express, and MongoDB.
 
 ---
+## 📽️ Demo
 
+![Demo](https://github.com/tyagisudhanshu/fileshare-app/raw/main/inshare%20demo.gif)
+---
 ## 🚀 Features
 
 - 📤 Upload large files with ease  
